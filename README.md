@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there! 👋 I'm Gean Hevia
 
-<!--
-**ghevia01/ghevia01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a CS student from Puerto Rico graduating in May 2024. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and cloud computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Facts
+
+- 🔭 I'm actively enhancing my full-stack development skills and exploring advanced cloud technologies.
+- 🌱 I’m currently learning more about DevOps practices and cloud architecture.
+- 🤔 I’m seeking advice on large-scale system designs and microservices best practices.
+
+## Technical Toolbox
+
+```json
+{
+  "languages": ["JavaScript", "TypeScript", "Java", "Python"],
+  "web": ["HTML", "CSS", "React", "Node.js"],
+  "databases": ["SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"],
+  "cloud": ["AWS (EC2, ECR, S3, RDS)"],
+  "devOpsTools": ["Docker", "Kubernetes", "Terraform"],
+  "tools": ["Git", "GitHub", "Visual Studio Code", "Trello", "Figma"],
+  "frameworks": ["Express"],
+  "testing": ["Jest", "Vitest"],
+  "software practices": ["Agile", "DevOps", "CI/CD"]
+}
+```
+
+## Learning Goals
+
+- Deepening my knowledge in cloud security and CI/CD pipelines.
+- Exploring AI and machine learning applications in web tech.
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/gean-hevia](https://www.linkedin.com/in/gean-hevia/)
