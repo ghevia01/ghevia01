@@ -15,11 +15,11 @@ I'm a CS student from Puerto Rico graduating in May 2024. I love learning, devel
 ```json
 {
   "languages": ["JavaScript", "TypeScript", "Java", "Python"],
-  "web": ["HTML", "CSS", "React", "Node.js"],
+  "web": ["HTML", "CSS", "SCSS", "React", "Node.js"],
   "databases": ["SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"],
-  "cloud": ["AWS (EC2, ECR, S3, RDS)"],
-  "devOpsTools": ["Docker", "Kubernetes", "Terraform"],
-  "tools": ["Git", "GitHub", "Visual Studio Code", "Trello", "Figma"],
+  "cloud": ["AWS (EC2, ECR, ECS, RDS, S3)"],
+  "devOpsTools": ["Docker", "Github Actions"],
+  "tools": ["Git", "GitHub", "VS Code", "Trello", "Figma"],
   "frameworks": ["Express"],
   "testing": ["Jest", "Vitest"],
   "software practices": ["Agile", "DevOps", "CI/CD"]
@@ -28,6 +28,7 @@ I'm a CS student from Puerto Rico graduating in May 2024. I love learning, devel
 
 ## Learning Goals
 
+- Improving and learning best practices.
 - Deepening my knowledge in cloud security and CI/CD pipelines.
 - Exploring AI and machine learning applications in web tech.
 
