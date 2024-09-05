@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a CS student from Puerto Rico graduating in May 2024. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and cloud computing.
+I'm a recent CS graduate. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and cloud computing.
 
 ## Quick Facts
 
@@ -15,12 +15,12 @@ I'm a CS student from Puerto Rico graduating in May 2024. I love learning, devel
 ```json
 {
   "languages": ["JavaScript", "TypeScript", "Java", "Python"],
-  "web": ["HTML", "CSS", "SCSS", "React", "Node.js"],
+  "web": ["HTML", "CSS", "Sass/SCSS", "TailwindCSS", "React"]
+  "backend": ["Node.js", "Express"]
   "databases": ["SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"],
-  "cloud": ["AWS (EC2, ECR, ECS, RDS, S3)"],
+  "cloud": ["AWS (SAA Certified)"],
   "devOpsTools": ["Docker", "Github Actions"],
   "tools": ["Git", "GitHub", "VS Code", "Trello", "Figma"],
-  "frameworks": ["Express"],
   "testing": ["Jest", "Vitest"],
   "software practices": ["Agile", "DevOps", "CI/CD"]
 }
