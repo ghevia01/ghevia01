@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a recent CS graduate. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and cloud computing.
+I'm a recent CS graduate. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and Cloud Computing.
 
 ## Quick Facts
 
