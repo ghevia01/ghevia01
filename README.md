@@ -2,13 +2,16 @@
 
 ## About Me
 
-I'm a recent CS graduate. I love learning, developing, and contributing! I'm currently immersed in the world of DevOps and Cloud Computing.
+Cloud Platform Engineer @ Popular, Inc.
+<br>
+<br>
+I'm a recent Computer Science graduate, very passionate about technology and continuous learning. Currently deep diving into the dynamic fields of DevOps and Cloud Computing. I love building scalable systems, improving processes, and staying at the forefront of cutting-edge technology.
 
 ## Quick Facts
 
-- 🔭 I'm actively enhancing my full-stack development skills and exploring advanced cloud technologies.
-- 🌱 I’m currently learning more about DevOps practices and cloud architecture.
-- 🤔 I’m seeking advice on large-scale system designs and microservices best practices.
+- 🔭 Actively enhancing my expertise in cloud architecture and large-scale system designs.
+- 🌱 Diving deeper into CI/CD pipelines, cloud security, and AWS best practices.
+- 🤔 Always open to advice on improving DevOps workflows, microservices architectures, and team collaboration in tech projects.
 
 ## Technical Toolbox
 
@@ -19,8 +22,8 @@ I'm a recent CS graduate. I love learning, developing, and contributing! I'm cur
   "backend": ["Node.js", "Express"]
   "databases": ["SQL (PostgreSQL, MySQL)", "NoSQL (MongoDB)"],
   "cloud": ["AWS (SAA Certified)"],
-  "devOpsTools": ["Docker", "Github Actions"],
-  "tools": ["Git", "GitHub", "VS Code", "Trello", "Figma"],
+  "devOpsTools": ["Terraform", "Docker", "Github Actions"],
+  "tools": ["Git", "GitHub", "GitLab", "VS Code", "Trello", "Figma"],
   "testing": ["Jest", "Vitest"],
   "software practices": ["Agile", "DevOps", "CI/CD"]
 }
@@ -28,9 +31,10 @@ I'm a recent CS graduate. I love learning, developing, and contributing! I'm cur
 
 ## Learning Goals
 
-- Improving and learning best practices.
-- Deepening my knowledge in cloud security and CI/CD pipelines.
-- Exploring AI and machine learning applications in web tech.
+- Building secure and efficient CI/CD pipelines with modern DevOps tools.
+- Mastering advanced cloud security concepts for AWS.
+- Preparing for the AWS DevOps Professional Certification.
+- Exploring the integration of AI and machine learning in cloud and web applications.
 
 ## Connect With Me
 
